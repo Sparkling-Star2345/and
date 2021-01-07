@@ -1,3 +1,7 @@
 print("(☞ﾟヮﾟ)☞")
 print("(●'◡'●)")
 print("{. Sparkling Star .}")
+print("(┬┬﹏┬┬)")
+print("¯\_(ツ)_/¯")
+print("╰(*°▽°*)╯")
+print("(❁^◡^❁)")
